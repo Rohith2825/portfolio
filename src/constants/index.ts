@@ -24,24 +24,11 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   oip,
   SSN,
   ACM,
   STR,
-  BOB,
-  ABC,
-  Far,
-  Ml,
-  th,
-  BoB,
   bbb,
   Fig,
   SRM,
@@ -247,7 +234,7 @@ const projects: TProject[] = [
       },
     ],
     image: bbb,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Rohith2825",
   },
   {
     name: "Mithran - An Agritech Solution  built for small-scale farmers",
@@ -265,7 +252,7 @@ const projects: TProject[] = [
       
     ],
     image: Fig,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Rohith2825",
   },
   {
     name: "AR Tour for SSN College of Engineering",
@@ -286,7 +273,7 @@ const projects: TProject[] = [
       
     ],
     image: SRM,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Rohith2825",
   },
   {
     name: "CurveTopia - Advanced ML Application ",
@@ -305,7 +292,7 @@ const projects: TProject[] = [
       
     ],
     image:D4,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Rohith2825",
   },
 
   {
@@ -326,7 +313,7 @@ const projects: TProject[] = [
       
     ],
     image:Geo,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Rohith2825",
   },
 
   {
@@ -346,7 +333,7 @@ const projects: TProject[] = [
       
     ],
     image:Race,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/Rohith2825",
   },
 
   
